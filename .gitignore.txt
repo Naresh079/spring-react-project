@@ -1,0 +1,9 @@
+# Spring Boot
+target/
+.gradle/
+build.gradle
+
+# React
+node_modules/
+.npmignore
+build/ 
